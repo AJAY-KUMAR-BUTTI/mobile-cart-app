@@ -1,0 +1,58 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "Samsung Galaxy M33",
+            "src" : "https://m.media-amazon.com/images/I/81lnKynSaqL._SX522_.jpg",
+            "price" : 17999
+        },
+        {
+            "id" : 2,
+            "name" : "Samsung Galaxy M32",
+            "src" : "https://m.media-amazon.com/images/I/71F4jU7MRUS._SX425_.jpg",
+            "price" : 16999
+        },
+        {
+            "id" : 3,
+            "name" : "Samsung Galaxy M12",
+            "src" : "https://m.media-amazon.com/images/I/81HJ4pkOsiL._SX522_.jpg",
+            "price" : 10499
+        },
+        {
+            "id" : 4,
+            "name" : "Samsumg Galaxy M12",
+            "src" : "https://m.media-amazon.com/images/I/71r69Y7BSeL._SX425_.jpg",
+            "price" : 10499
+        },
+        {
+            "id" : 5,
+            "name" : "Vivo Y75 4G",
+            "src" : "https://m.media-amazon.com/images/I/61lP0Ts7-uL._SX679_.jpg",
+            "price" : 20700
+        }, 
+        {
+            "id" : 6,
+            "name" : "OPPO A16e",
+            "src" : "https://m.media-amazon.com/images/I/613S46TCKcL._SX679_.jpg",
+            "price" : 9490
+        },
+        {
+            "id" : 7,
+            "name" : "OnePlus nord",
+            "src" : "https://m.media-amazon.com/images/I/71AvQd3VzqL._SX679_.jpg",
+            "price" :  18499
+        },
+        {
+            "id" : 8,
+            "name" : "Poco X3",
+            "src" : "https://static.digit.in/product/thumb_312148_product_td_300.jpeg?tr=w-1200",
+            "price" : 20000
+        },
+        {
+            "id" : 9,
+            "name" : "iphone 14pro max",
+            "src" : "https://m.media-amazon.com/images/I/51eNB-6lGhL._SY355_.jpg",
+            "price" : 130000
+        }
+    ]
+}
